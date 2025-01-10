@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @zach
 - 👀 I’m interested in Software development 
 - 🌱 I’m currently learning C++ and Python
-- 💞️ I’m looking to collaborate on
 - ⚡ Fun fact: i played rugby
 
 <!---
